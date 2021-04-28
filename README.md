@@ -6,10 +6,10 @@
 
 ### :wave: About me
 
-### A student and back-end web developer focused on learning back-end, front-end and technologies. Always looking to contribute to the community in some way and learn together.
+#### A student and back-end web developer focused on learning back-end, front-end and technologies. Always looking to contribute to the community in some way and learn together.
 
 <details>
- ### <summary># My Github Stats</summary>
+  <summary># My Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api/?username=Luyzhz&count_private=true&theme=tokyonight&showicons=true">
 </details>
 
